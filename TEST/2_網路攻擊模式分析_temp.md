@@ -1081,11 +1081,11 @@ A. Replay attack
 B. IP spoofing
 C. Login spoofing
 D. Session hijacking
-146. What is the primary difference between active and passive reconnaissance?
-A. Active will be done manually, passive with tools.
-B. Active is done with black-box tests and passive with white-box tests.
-C. Active is usually done by attackers and passive by testers.
-D. Active will actually connect to the network and could be detected; passive won’t.
+146. What is the primary(主要) difference(差異) between(之間) active(主動) and passive(被動) reconnaissance(偵查)?
+A. Active will be done manually,(主動將手動完成) passive with tools.(被動將通過工具完成)
+B. Active is done with black-box tests(主動通過黑盒測試完成) and passive with white-box tests.(被動通過白盒測試完成)
+C. Active is usually done by attackers(主動通常由攻擊者完成) and passive by testers.(被動則由測試人員完成)
+D. Active will actually connect to the network and could be detected;(活動的實際上會連接到網絡並且可以被檢測到) passive won’t.(被動不會。)
 147. What is the primary difference between a vulnerability scan and a penetration test?
 A. Vulnerability scans are done by employees and penetration tests by outside teams.
 B. Vulnerability scans only use tools; penetration tests are manual.
